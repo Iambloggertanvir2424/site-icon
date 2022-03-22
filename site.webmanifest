@@ -1,6 +1,6 @@
    {
-    "name": "Techbounter",
-    "short_name": "Techbounter",
+    "name": "Radio Dimla",
+    "short_name": "রেডিও ডিমলা",
     "icons": [
         {
             "src": "https://1.bp.blogspot.com/-d0C_O0mrXeY/YLQVHUEqGnI/AAAAAAAAx7k/tJ3KDbg9WKEkRCMqJwrkYUFpziIYR1wGgCLcBGAsYHQ/s0/android-chrome-192x192.png",
@@ -19,5 +19,5 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "prefer_related_applications": false,
-  "start_url": "https://www.Techbounter.xyz"
+  "start_url": "https://www.radiodimla.xyz"
 }
